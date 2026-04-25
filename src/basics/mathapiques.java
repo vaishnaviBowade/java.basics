@@ -1,3 +1,19 @@
+/*      Problem Statement:
+        Write a Java program to calculate the Compound Interest (CI).
+
+        The program should:
+
+        Take input for:
+        Principal amount (P)
+        Rate of interest (r)
+        Time in years (t)
+        Number of times interest is compounded per year (n)
+
+        Calculate the compound interest using the formula:
+
+        CI = P(1 + r/n)^(n*t) - P
+
+        Print the compound interest.*/
 package basics;
 import java.util.Scanner;
 
